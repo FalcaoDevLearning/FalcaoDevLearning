@@ -18,7 +18,7 @@
 
 <div align="center">
   <a href="https://github.com/falcaodevlearning">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falcaodevlearning&theme=dark&langs_count=8"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falcaodevlearning&theme=dark&langs_count=20"/>
   </a>
 </div>
 
