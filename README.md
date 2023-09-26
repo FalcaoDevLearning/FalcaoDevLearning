@@ -1,8 +1,8 @@
 <div>
   
   <h1 align="center">
-    Olá, meu nome é  
-    <a href="https://www.linkedin.com/in/edududuribeiro/">Vinicius Falcão </a>
+    Olá, Meu nome é  
+    <a href="#">Vinicius Falcão </a>
   </h1>
   
   <p align="center">
