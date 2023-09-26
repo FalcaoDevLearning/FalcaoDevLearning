@@ -18,7 +18,7 @@
 
 <div align="center">
   <a href="https://github.com/falcaodevlearning">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falcaodevlearning&theme=dark&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FalcaoDevLearning&theme=dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
