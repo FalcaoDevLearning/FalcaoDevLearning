@@ -40,5 +40,3 @@
   
 </div>
 
-<div align="center">
-  <p>Volte Sempre!</p>
